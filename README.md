@@ -78,4 +78,4 @@ Contributions to the Creator application are welcome. Please ensure to follow th
 
 ## License
 
-[Specify your License here]
+MIT
